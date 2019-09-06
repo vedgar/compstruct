@@ -2,4 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
-* { background: #0f0; }
+
+p {
+  font-size: larger;
+}
