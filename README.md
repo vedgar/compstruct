@@ -1,6 +1,6 @@
 # CompStruct project
 
-### Computable structures, decidability and complexity.
+### Computable structures, decidability and complexity
 
 ## Overview
 
