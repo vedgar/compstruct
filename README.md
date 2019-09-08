@@ -2,6 +2,8 @@
 
 ### Computable structures, decidability and complexity
 
+![PMF logo](/PMF-1.png)
+
 ## Overview
 
 The project helps coordinate and support the activities of the Croatian group which carries out research in mathematical logic and theoretical computer science. The envisioned topics of research are computability in analysis and topology, and the decidability and complexity of various logics.
