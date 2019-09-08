@@ -1,4 +1,4 @@
-# Compstruct project
+# CompStruct project -- results
 
 ## Publications
 
