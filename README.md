@@ -2,7 +2,7 @@
 
 ### Computable structures, decidability and complexity
 
-![PMF logo](/PMF-1.png)
+![PMF logo](/PMF-1.jpg)
 
 ## Overview
 
