@@ -16,9 +16,12 @@
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         
+        <p>Project leader: <strong>Zvonko Iljazović</strong></p>
+        
         {% if site.logo %}
-        Funded by
+        <p>Funded by
           <img src="{{site.logo | relative_url}}" alt="Logo" />
+        </p>
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
@@ -46,9 +49,9 @@
       </section>
       <footer>
         {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        <p>This project web page is maintained by <a href="{{ site.github.owner_url }}">Vedran Čačić</a></p>
         {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        <p><small>Hosted on GitHub Pages &mdash; Original theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
