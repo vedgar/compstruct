@@ -35,4 +35,4 @@
 
 ### Organized meetings
 
-1. Sixteenth International Conference on **Computability and Complexity in Analysis**, July 8-11, 2019, Zagreb
+Sixteenth International Conference on **Computability and Complexity in Analysis**, July 8-11, 2019, Zagreb
