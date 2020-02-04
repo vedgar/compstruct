@@ -26,3 +26,5 @@ Interpretability logics are extensions of provability logic _GL_ ("Gödel-Löb")
 * Bojan Pažek
 * Domagoj Vrgoč
 * Matea Jelić
+* Matea Čelar
+* Tihana Strmečki
