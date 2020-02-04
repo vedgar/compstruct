@@ -16,11 +16,11 @@
 
 2. M. Horvat, Z. Iljazović, B. Pažek: **Computability of pseudo-cubes**, 2019 (25 pages)
 
-3. L. Mikec, M. Vuković: **Interpretability logics and generalized Veltman semantics**, 2019 (20 pages)
+3. M. Čelar, Z. Iljazović: **Computability of products of chainable continua**, 2019 (18 pages)
 
-4. M. Čelar, Z. Iljazović: **Computability of products of chainable continua**, 2019 (18 pages)
+4. K. Burnik, Z. Iljazović: **Dense computability structures**, 2019 (32 pages)
 
-5. K. Burnik, Z. Iljazović: **Dense computability structures**, 2019 (32 pages)
+5. V. Čačić, E. Kostylev, J. Reutter, D. Vrgoč: **Using XPath to Reason over DL Ontologies**, 2020 (35 pages)
 
 ## Dissemination
 
