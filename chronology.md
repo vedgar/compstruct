@@ -8,7 +8,7 @@
 
 2. Z. Iljazović: **Computability of graphs**, *to appear in* Mathematical Logic Quarterly (15 pages)
 
-3. L. Mikec, M. Vuković: **Interpretability logics and generalized Veltman semantics**, *to appear in* Journal of Symbolic Logic (20 pages)
+3. L. Mikec, M. Vuković: **Interpretability logics and generalised Veltman semantics**, *to appear in* The Journal of Symbolic Logic (21 pages)
 
 ### Preprints
 
